@@ -6,15 +6,6 @@ This project is a Retrieval-Augmented Generation (RAG) application built with St
 
 This project can also act as a tool to chat with LLM without uploading a document.
 
-This tool can act as a testing mechanism to test an RAG model's performance over various LLM and Embedding models, Chunk sizes and various parameters of LLMs.
-Table of Contents
-
-    Features
-    Getting Started
-    Installation
-    Usage
-    Configuration
-
 Features
 
     Document Upload: Supports uploading PDF documents and automatically processes them into text chunks.
@@ -32,12 +23,6 @@ Pre-requisites
     Python 3
 
 Installation
-
-Clone the repository
-
- git clone https://github.com/khamsakamal48/Local-RAG-with-Ollama.git
- cd Local-RAG-with-Ollama
-
 Install pre-requisites
 
 pip install -r requirements.txt
